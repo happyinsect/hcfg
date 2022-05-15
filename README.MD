@@ -1,0 +1,1 @@
+#Cfg parser for hik .properties files.
